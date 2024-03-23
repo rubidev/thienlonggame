@@ -1,0 +1,15 @@
+{
+  "Launch": {
+    "LatestVersion": 1,
+    "NewVersionUrl": "https://id.thienlonggame.com/Launch.zip"
+  },
+  "LoginServerUrl": "https://id.thienlonggame.com/LoginServer.txt",
+  "LatestVersion": "1.00.00",
+  "Patches": [    
+    {
+      "VersionFrom": "1.00.00",
+      "VersionTo": "1.00.01",
+      "Url": ""
+    }
+  ]
+}
