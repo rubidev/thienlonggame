@@ -1,4 +1,4 @@
 VERSION 1
 SERVER_BEGIN
-Viet Nam,Giao Long,1,201,3,1,0,Giao Long,103.69.84.122:5779,,,
+Viet Nam,Giao Long,1,201,3,1,0,Giao Long,142.251.220.99:443,,,
 SERVER_END
