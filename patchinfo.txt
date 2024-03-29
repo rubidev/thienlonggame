@@ -1,8 +1,8 @@
 [Version]
-Latest=1.00.0000
-NewLaunch=1.0.0
+Latest=1.01
+NewLaunch=1.01
 
 [Patch_0]
 VersionFrom=1.00.0000
-VersionTo=1.00.0001
-URL_1=
+VersionTo=1.01
+URL_1=https://update.thienlonggame.com/update-1.01.zip
