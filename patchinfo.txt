@@ -1,5 +1,5 @@
 [Version]
-Latest=1.01
+Latest=1.02
 NewLaunch=1.02
 
 [Patch_0]
