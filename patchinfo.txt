@@ -1,5 +1,5 @@
 [Version]
-Latest=1.02
+Latest=1.03
 NewLaunch=1.02
 
 [Patch_0]
@@ -11,4 +11,10 @@ URL_1=https://update.thienlonggame.com/update-1.01.zip
 VersionFrom=1.01
 VersionTo=1.02
 URL_1=https://update.thienlonggame.com/update-1.02.zip
+
+[Patch_2]
+VersionFrom=1.02
+VersionTo=1.03
+URL_1=https://update.thienlonggame.com/update-1.03.zip
+
 
